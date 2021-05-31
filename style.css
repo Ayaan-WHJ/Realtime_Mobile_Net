@@ -31,6 +31,7 @@ background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,153,0,1) 25%, rg
  .result_para_tag span
  {
    white-space: pre-line;
+   width: 1000px;
  }
 
  .copy_right_footer
@@ -60,8 +61,9 @@ background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,153,0,1) 25%, rg
  {
 background-color: black;
 color: white;
-width: 10%;
+
 height: 5%;
 line-height: 2;
 border-radius: 20px;
+width: 1000px;
  }
